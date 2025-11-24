@@ -1,4 +1,4 @@
-# Super Metroid
+# Flashback
 <img src="assets/fb.png" width="200" align="right" />
 
 Script for building Flashback on macOS using the source code from [REminiscence](https://github.com/chermenin/REminiscence)
