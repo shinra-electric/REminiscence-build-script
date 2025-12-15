@@ -16,7 +16,7 @@ set_variables() {
 	GAME_ID="fb"
 	GAME_TITLE="Flashback"
 	PKGINFO_TITLE="REFB"
-	ICON_URL='https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/8c32f68ab013e726114d9b81949e19df_Super_Metroid.icns'
+	ICON_URL='https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/e1ee03984a601237ff647d74aa91f5cc_Flashback.icns'
 	APP_SUPP=~/Library/Application\ Support/
 }
 
